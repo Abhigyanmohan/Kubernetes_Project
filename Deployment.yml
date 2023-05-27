@@ -13,7 +13,7 @@ spec:
           app: mrdevops
       spec:
        containers:
-        - name: mrdevops
+        - name: mrdevop
           image: vikashashoke/pipeline-demo
           imagePullPolicy: Always
           ports:
